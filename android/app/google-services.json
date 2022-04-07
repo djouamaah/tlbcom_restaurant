@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "385776263378",
+    "project_id": "tlbcom",
+    "storage_bucket": "tlbcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776263378:android:604414b0e7e5f7cb8f4d0b",
+        "android_client_info": {
+          "package_name": "com.tlbcom.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEcJJD3N9rXE_xaKHj8Kz2NwLyhkFwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776263378-o5t2pa4tnhbj0ue05kpbn4vbuuq6g2ha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tlbcom.food"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776263378:android:fe9485e3f205f4508f4d0b",
+        "android_client_info": {
+          "package_name": "com.tlbcom.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEcJJD3N9rXE_xaKHj8Kz2NwLyhkFwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776263378-o5t2pa4tnhbj0ue05kpbn4vbuuq6g2ha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tlbcom.food"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776263378:android:8729320c189d3a3f8f4d0b",
+        "android_client_info": {
+          "package_name": "com.tlbcom.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEcJJD3N9rXE_xaKHj8Kz2NwLyhkFwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776263378-joljm11ucc8smrb99afl54omlb7l3rdt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776263378-o5t2pa4tnhbj0ue05kpbn4vbuuq6g2ha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tlbcom.food"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
